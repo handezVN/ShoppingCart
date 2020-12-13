@@ -1,0 +1,13 @@
+div .info{
+    position: fixed;
+    bottom: 0;
+    align-items: center;
+    background: black;
+    width: 63%;
+    text-align: center;
+    color: palegoldenrod;
+}
+div .info a{
+    text-transform: uppercase;
+    color: palegoldenrod;
+}
