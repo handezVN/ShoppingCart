@@ -3,7 +3,8 @@ div .info{
     bottom: 0;
     align-items: center;
     background: black;
-    width: 63%;
+    left: 0;
+    width: 100%;
     text-align: center;
     color: palegoldenrod;
 }
